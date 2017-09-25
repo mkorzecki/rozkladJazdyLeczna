@@ -1,0 +1,18 @@
+<div class="hour">05</div> <div class="minutes">41 </div><div style="clear:both;"></div>
+<div class="hour">06</div> <div class="minutes">27	59</div><div style="clear:both;"></div>
+<div class="hour">07</div> <div class="minutes">48</div><div style="clear:both;"></div>
+<div class="hour">08</div> <div class="minutes">24</div><div style="clear:both;"></div>
+<div class="hour">09</div> <div class="minutes">26</div><div style="clear:both;"></div>
+<div class="hour">10</div> <div class="minutes">16	26</div><div style="clear:both;"></div>
+<div class="hour">11</div> <div class="minutes">31</div><div style="clear:both;"></div>
+<div class="hour">12</div> <div class="minutes">14	31</div><div style="clear:both;"></div>
+<div class="hour">13</div> <div class="minutes">09	36</div><div style="clear:both;"></div>
+<div class="hour">14</div> <div class="minutes">16	46</div><div style="clear:both;"></div>
+<div class="hour">15</div> <div class="minutes">14</div><div style="clear:both;"></div>
+<div class="hour">16</div> <div class="minutes">36</div><div style="clear:both;"></div>
+<div class="hour">17</div> <div class="minutes">26</div><div style="clear:both;"></div>
+<div class="hour">18</div> <div class="minutes">36</div><div style="clear:both;"></div>
+<div class="hour">19</div> <div class="minutes">21</div><div style="clear:both;"></div>
+<div class="hour">20</div> <div class="minutes">26</div><div style="clear:both;"></div>
+<div class="hour">21</div> <div class="minutes">16</div><div style="clear:both;"></div>
+<div class="hour">22</div> <div class="minutes">31</div><div style="clear:both;"></div>	
